@@ -1,2 +1,2 @@
-This is file 2
+Modified line in branch1
 New line in file2
