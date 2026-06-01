@@ -1,2 +1,1 @@
-This is file 2
-New line in file2
+Completely rewritten in master
